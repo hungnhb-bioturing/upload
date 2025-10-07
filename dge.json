@@ -1,0 +1,20 @@
+{
+  "chart_url": "https://accurate.bioturing.com/bbrowserx/uk.go/d968ce9ce172e30b5ad3497f321e791d/upload/.01K6VX3P536SVD16V7THA3MRMN/.params/.01K6VX3P536SVD16V7THA3MRMN.msgpack",
+  "tsig": "72ebd26c852d264d9ec5a077f19d03ad",
+  "import_type": "option",
+  "chart_type": "heatmap",
+  "client_type": "0",
+  "project_title": "Untitled study",
+  "import_id": "ST-01JWQT4VM23V9VSZD3NJ8CQQW0",
+  "color_settings": [
+    "#ffffcc",
+    "#ffeda0",
+    "#fed976",
+    "#feb24c",
+    "#fd8d3c",
+    "#fc4e2a",
+    "#e31a1c",
+    "#bd0026",
+    "#800026"
+  ]
+}
