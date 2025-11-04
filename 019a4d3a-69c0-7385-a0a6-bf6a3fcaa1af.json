@@ -1,0 +1,14 @@
+{
+  "chart_url": "/bbrowserx/uk.go/d968ce9ce172e30b5ad3497f321e791d/upload/.01K96JEEQ5Q9PP7P3FWVFJ49H2/.params/.01K96JEEQ5Q9PP7P3FWVFJ49H2.msgpack",
+  "tsig": "72ebd26c852d264d9ec5a077f19d03ad",
+  "import_type": "option",
+  "chart_type": "violin",
+  "client_type": "0",
+  "project_title": "Untitled study",
+  "import_id": "ST-01JWQT4VM23V9VSZD3NJ8CQQW0",
+  "color_settings": [
+    "#1abead",
+    "#ffae17"
+  ],
+  "view_data_url": "https://raw.githubusercontent.com/hungnhb-bioturing/upload/refs/heads/main/abc.json"
+}
