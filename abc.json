@@ -1,0 +1,24 @@
+{
+  "FTL": {
+    "p_values": [
+      {
+        "groups": [
+          "Group 1 - 219 cells",
+          "Group 2 - 930 cells"
+        ],
+        "value": 1.8018393047194829e-10
+      }
+    ]
+  },
+  "LYZ": {
+    "p_values": [
+      {
+        "groups": [
+          "Group 1 - 219 cells",
+          "Group 2 - 930 cells"
+        ],
+        "value": 1.8018393047194829e-10
+      }
+    ]
+  }
+}
