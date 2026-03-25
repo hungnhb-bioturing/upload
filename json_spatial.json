@@ -61,7 +61,7 @@
       ],
       "start": 54957,
       "length": 10261,
-      "shape": "CIRCLE",
+      "shape": "circle",
       "type": "category",
       "size": 12.830773078255246,
       "id": "cellLayers"
@@ -110,7 +110,7 @@
       ],
       "start": 54957,
       "length": 10261,
-      "shape": "CIRCLE",
+      "shape": "circle",
       "type": "category",
       "size": 12.830773078255246,
       "id": "cellLayers"
@@ -159,7 +159,7 @@
       ],
       "start": 54957,
       "length": 10261,
-      "shape": "CIRCLE",
+      "shape": "circle",
       "type": "category",
       "size": 12.830773078255246,
       "id": "cellLayers"
