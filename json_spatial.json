@@ -18,7 +18,8 @@
   },
   "scatters": [
     {
-      "title": "First legend",
+      "title": "First scatter",
+      "legendTitle": "First legend",
       "colorLabels": [
         "Louvain Cluster   0",
         "Louvain Cluster   1",
@@ -67,7 +68,8 @@
       "id": "cellLayers"
     },
      {
-       "title": "Second legend",
+       "title": "Second scatter",
+       "legendTitle": "Second legend",
       "colorLabels": [
         "Test second legend 0",
         "Test second legend 1",
@@ -116,8 +118,9 @@
       "id": "cellLayers"
     },
      {
-       "title": "Third legend",
-      "colorLabels": [
+       "title": "Third scatter",
+       "legendTitle": "Third legend",
+       "colorLabels": [
         "Test third legend 0",
         "Test third legend 1",
         "Test third legend 2",
@@ -167,7 +170,8 @@
   ],
   "polygons": [
     {
-      "title": "Polygon legend",
+      "title": "Polygon name",
+      "legendTitle": "Polygon legend",
       "colorLabels": [
         "4497-1-2K_5k_segmentation"
       ],
