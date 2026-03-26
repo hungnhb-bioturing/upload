@@ -20,6 +20,7 @@
     {
       "title": "First scatter",
       "legendTitle": "First legend",
+      "opacity": 1,
       "colorLabels": [
         "Louvain Cluster   0",
         "Louvain Cluster   1",
@@ -70,6 +71,7 @@
      {
        "title": "Second scatter",
        "legendTitle": "Second legend",
+       "opacity": 1,
       "colorLabels": [
         "Test second legend 0",
         "Test second legend 1",
@@ -120,6 +122,7 @@
      {
        "title": "Third scatter",
        "legendTitle": "Third legend",
+       "opacity": 1,
        "colorLabels": [
         "Test third legend 0",
         "Test third legend 1",
@@ -172,6 +175,7 @@
     {
       "title": "Polygon name",
       "legendTitle": "Polygon legend",
+      "opacity": 1,
       "colorLabels": [
         "4497-1-2K_5k_segmentation"
       ],
