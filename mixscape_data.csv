@@ -1,0 +1,5 @@
+cluster,perturbed_count,total_count,classification,label
+Cluster 2,151,158,perturbed,151/158
+Unassigned,1076,1127,perturbed,1076/1127
+Cluster 6,340,342,perturbed,340/342
+Cluster 8,13,13,non-perturbed,13/13
