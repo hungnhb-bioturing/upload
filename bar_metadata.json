@@ -1,10 +1,10 @@
 {
-  "x": "Country",
+  "x": "Louvain clustering (resolution=1.0)",
   "y": [
-    "Value"
+    "CD3D"
   ],
   "rotation": 90,
-  "title": "[BIOVINCI] 2014_ebola.csv",
+  "title": "CD3D",
   "colors": [
     "#1f77b4",
     "#ff7f0e",
